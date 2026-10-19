@@ -1,0 +1,5 @@
+{
+  "name": "Expense Tracker",
+  "stack": "Python, Flask, SQLite",
+  "description": "Record income and expenses, filter transactions, and view a running balance."
+}
